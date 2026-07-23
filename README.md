@@ -1,4 +1,3 @@
-````md
 # 🚀 Playwright & Pytest Automation Framework
 
 An end-to-end test automation framework for a Django application built with **Python**, **Playwright (Sync API)**, and **Pytest**.
@@ -230,4 +229,3 @@ Some of the areas I paid the most attention to were:
 - Organizing the project so additional pages and tests can be added with minimal effort.
 
 Although this project is intentionally small, the same structure can be scaled to larger applications without requiring major architectural changes.
-````
