@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+env/
+ve/
+
+# Python / Pytest Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Playwright Traces, Reports & Test Artifacts
+test-results/
+playwright-report/
+blob-report/
+
+# Database & Runtime Artifacts
+mysite/db.sqlite3
+*.log
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+.DS_Store
+
+# Local AI Instructions
+GEMINI.md
